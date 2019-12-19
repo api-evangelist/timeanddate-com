@@ -1,0 +1,58 @@
+{
+    "name": "Timeanddate.com",
+    "description": "Current Time (World Clock) and online and printable Calendars for countries worldwide. Find the best time for web meetings (Meeting Planner) or use the Time and Date Converters. Online services and Apps available for iPhone, iPad, and Android.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1791-timeanddate-com.jpg",
+    "tags": [
+        "astronomy",
+        "dates",
+        "have api",
+        "times"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/timeanddate-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Timeanddate.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1791-timeanddate-com.jpg",
+            "humanURL": "https:\/\/timeanddate.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/timeanddate-com-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.timeanddate.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/timeanddate-com"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/services.timeanddate.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@timeanddate.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/timeanddate"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/timeanddate.com\/"
+        }
+    ]
+}
